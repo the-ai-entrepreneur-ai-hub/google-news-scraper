@@ -3,6 +3,7 @@
 Scrape Google News articles by keyword in real time. Monitor brand mentions, track PR coverage, and gather competitive intelligence from 50,000+ news sources worldwide. Built with Node.js, Puppeteer, and the Apify platform.
 
 [![Run on Apify](https://img.shields.io/badge/Run%20on-Apify-blue?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgiIGhlaWdodD0iMjgiIHZpZXdCb3g9IjAgMCAyOCAyOCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTQgMjhDMjEuNzMyIDI4IDI4IDIxLjczMiAyOCAxNEMyOCA2LjI2OCAyMS43MzIgMCAxNCAwQzYuMjY4IDAgMCA2LjI2OCAwIDE0QzAgMjEuNzMyIDYuMjY4IDI4IDE0IDI4WiIgZmlsbD0iIzk3RDdGRiIvPjwvc3ZnPg==)](https://apify.com/george.the.developer/google-news-monitor)
+[![Available on RapidAPI](https://img.shields.io/badge/Also%20on-RapidAPI-blue?logo=rapidapi)](https://rapidapi.com/georgethedeveloper3046/api/google-news-scraper-brand-monitor-api)
 [![License: ISC](https://img.shields.io/badge/License-ISC-green.svg)](https://opensource.org/licenses/ISC)
 
 ## What It Does
@@ -152,6 +153,15 @@ Input Keywords
 - **Cost**: ~$0.003 per article found
 - **Speed**: 20-100 articles per minute depending on settings
 - **Reliability**: Triple-fallback ensures results even when Google blocks standard methods
+
+## Also Available on RapidAPI
+
+Prefer a standard REST API? This scraper is also available on **[RapidAPI](https://rapidapi.com/georgethedeveloper3046/api/google-news-scraper-brand-monitor-api)** with simple API key authentication:
+
+- **Free tier**: 50 requests/month
+- **Pro**: $19/month (1,000 requests)
+- **Ultra**: $49/month (5,000 requests)
+- **Mega**: $129/month (20,000 requests)
 
 ## Limitations
 
